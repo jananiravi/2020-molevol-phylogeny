@@ -3,7 +3,7 @@ Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of
 
 ## Interproscan
 - **The tool**: https://www.ebi.ac.uk/interpro/search/sequence/
-  - **Example run**: http://www.ebi.ac.uk/Tools/services/web/toolform.ebi?tool=iprscan5&sequence=uniprot:KPYM_HUMAN
+  - [**Example run**](http://www.ebi.ac.uk/Tools/services/web/toolform.ebi?tool=iprscan5&sequence=uniprot:KPYM_HUMAN)
 - **Paper**: <br>
 **InterProScan 5: genome-scale protein function classification.** _Jones et al.,_ Bioinformatics. 2014 May 1;30(9):1236-40. doi: 10.1093/bioinformatics/btu031. https://www.ncbi.nlm.nih.gov/pubmed/24451626
 - **Review** (Book chapter): <br>
