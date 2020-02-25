@@ -4,9 +4,10 @@ Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of
 ## Interproscan
 - **The tool**: https://www.ebi.ac.uk/interpro/search/sequence/
 - Tool w/ example: http://www.ebi.ac.uk/Tools/services/web/toolform.ebi?tool=iprscan5&sequence=uniprot:KPYM_HUMAN
-- **Paper**: https://www.ncbi.nlm.nih.gov/pubmed/24451626
+- **Paper**: <br>
+**InterProScan 5: genome-scale protein function classification.** _Jones et al.,_ Bioinformatics. 2014 May 1;30(9):1236-40. doi: 10.1093/bioinformatics/btu031. https://www.ncbi.nlm.nih.gov/pubmed/24451626
 - **Review** (Book chapter): <br>
-**InterPro and InterProScan: tools for protein sequence classification and comparison.** _Mulder N, Apweiler R._ Methods Mol Biol. 2007;396:59-70. https://www.ncbi.nlm.nih.gov/pubmed/18025686
+**InterPro in 2017-beyond protein family and domain annotations.** _Finn et al.,_ Nucleic Acids Res. 2017 Jan 4;45(D1):D190-D199. doi: 10.1093/nar/gkw1107. https://www.ncbi.nlm.nih.gov/pubmed/27899635
 - **Wiki**: https://en.wikipedia.org/wiki/InterPro
 
 ## BLAST
