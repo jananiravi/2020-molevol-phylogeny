@@ -1,5 +1,5 @@
 # Molecular Evolution and Phylogeny
-Supporting material for the Feb 27, 2020 lecture in the 'Chemistry & Biology of Pathogens' special seminar course!
+Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of Pathogens' special seminar course](https://d2l.msu.edu/d2l/home/992472)!
 
 ## Interproscan
 - **The tool**: https://www.ebi.ac.uk/interpro/search/sequence/
