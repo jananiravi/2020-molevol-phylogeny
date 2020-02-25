@@ -8,7 +8,8 @@ Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of
   - Comparative Pathogenomics
 - In class hands-on demo for two most useful tools: [BLAST](https://github.com/jananiravi/2020-molevol-phylogeny#blast) & [Interproscan](https://github.com/jananiravi/2020-molevol-phylogeny#interproscan)
   - For this, please explore the tools below | web-versions for the 'how' + papers to orient you on the 'why' & 'what'
-  - We will address your Qs + use these with the example fasta file in the [data](https://github.com/jananiravi/2020-molevol-phylogeny/tree/master/data) folder.
+  - Example input files in the [data](https://github.com/jananiravi/2020-molevol-phylogeny/tree/master/data) folder: fasta + saved BLAST search strategy.
+  - We will address your Qs + use these with the web-tools in class on Thursday!
 
 ## Interproscan
 - **The tool**: https://www.ebi.ac.uk/interpro/search/sequence/
