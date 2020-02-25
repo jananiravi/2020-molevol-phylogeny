@@ -1,6 +1,15 @@
 # Molecular Evolution and Phylogeny
 Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of Pathogens' special seminar course](https://d2l.msu.edu/d2l/home/992472)!
 
+## Learning Objectives
+- Commonly used computational approaches for pathogen research
+- Intro to computational evolutionary biology
+  - Molecular Evolution & Phylogeny
+  - Comparative Pathogenomics
+- In class hands-on demo for two most useful tools: [BLAST](https://github.com/jananiravi/2020-molevol-phylogeny#blast) & [Interproscan](https://github.com/jananiravi/2020-molevol-phylogeny#interproscan)
+  - For this, please explore the tools below | web-versions for the 'how' + papers to orient you on the 'why' & 'what'
+  - We will address your Qs + use these with the example fasta file in the [data](https://github.com/jananiravi/2020-molevol-phylogeny/tree/master/data) folder.
+
 ## Interproscan
 - **The tool**: https://www.ebi.ac.uk/interpro/search/sequence/
   - [**Example run**](http://www.ebi.ac.uk/Tools/services/web/toolform.ebi?tool=iprscan5&sequence=uniprot:KPYM_HUMAN)
