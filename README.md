@@ -2,7 +2,6 @@
 Supporting material for the Feb 27, 2020 lecture in the ['Chemistry & Biology of Pathogens' special seminar course](https://d2l.msu.edu/d2l/home/992472)!
 
 ## Learning Objectives
-- Commonly used computational approaches for pathogen research
 - Intro to computational evolutionary biology
   - Molecular Evolution & Phylogeny
   - Comparative Pathogenomics
